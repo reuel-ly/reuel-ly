@@ -8,3 +8,5 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-82BAC4?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-82BAC4?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-82BAC4?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-137054?style=for-the-badge&logo=javascript&logoColor=black)
