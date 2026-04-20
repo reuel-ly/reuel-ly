@@ -54,8 +54,8 @@ I'm a passionate **Data Science student** on a journey to become a **Data Engine
 
 ### 📌 Focus Areas
 
-- 🔁 **Data Engineering** — Building robust data pipelines with PySpark and GCP
-- 🧠 **AI Engineering** — Developing LLM-powered applications using LangChain
+- 🔁 **Data Engineering** — Building robust data pipelines with PySpark
+- 🧠 **AI Engineering** — Developing LLM-powered applications using LangChain, Google ADK, and GCP
 - 📈 **Machine Learning** — Modeling with Scikit-learn, TensorFlow, and PyTorch
 
 ---
