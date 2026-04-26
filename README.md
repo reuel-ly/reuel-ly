@@ -19,6 +19,7 @@ I'm a passionate **Data Science student** on a journey to become a **Data Engine
 #### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-006078?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-137054?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📊 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
