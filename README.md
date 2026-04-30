@@ -40,6 +40,7 @@ I'm a passionate **Data Science student** on a journey to become a **Data Engine
 
 #### ⚙️ Backend & App Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### 🔄 Workflow Automation
