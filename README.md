@@ -7,7 +7,7 @@ I'm a passionate **Data Science student** on a journey to become a **Data Engine
 ### 🙋 About Me
 
 - 🎓 Currently a **Data Science Student**
-- 🚀 Studying **Data Engineeri g** and **AI Engineering**
+- 🚀 Studying **Data Engineering** and **AI Engineering**
 - 🤖 Interested in building end-to-end ML/AI pipelines and scalable data systems
 - 🏆 Active hackathon participant (earned **3rd place** at the Hexcorelabs AI Hackathon, and competed in events by **Grundfos** and the **ASEAN Data Science Explorer**)
 - 🌱 Continuously learning and exploring new tools in the data & AI ecosystem
