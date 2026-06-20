@@ -1,13 +1,13 @@
 ## Hi there! 👋 I'm a Computer Engineering Student Passionate About Data & AI
 
-I'm a passionate **Data Science student** on a journey to become a **Data Engineer** and **AI Engineer**. I enjoy working across the full data pipeline: from raw data processing to building intelligent systems.
+I'm a passionate **Data Science student** on a journey to become an **AI/ML Engineer**. I enjoy working across the full data pipeline: from raw data processing to building intelligent systems.
 
 ---
 
 ### 🙋 About Me
 
 - 🎓 Currently a **Data Science Student**
-- 🚀 Studying **Data Engineering** and **AI Engineering**
+- 🚀 Studying **AI/ML Engineering**
 - 🤖 Interested in building end-to-end ML/AI pipelines and scalable data systems
 - 🏆 Active hackathon participant (earned **3rd place** at the Hexcorelabs AI Hackathon, and competed in events by **Grundfos** and the **ASEAN Data Science Explorer**)
 - 🌱 Continuously learning and exploring new tools in the data & AI ecosystem
